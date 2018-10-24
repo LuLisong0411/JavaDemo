@@ -1,3 +1,6 @@
+/*
+ * 		通过ASCII表对应值实现字母大小写的转换
+ * */
 package outwardBound;
 
 import java.util.Scanner;
